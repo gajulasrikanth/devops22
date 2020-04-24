@@ -1,0 +1,16 @@
+<jbi version="1.0" 
+	xmlns="http://java.sun.com/xml/ns/jbi"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<component type="binding-component">
+		<identification>
+			<name>mavenproject1</name>
+			<description>Binding Component mavenproject1</description>
+		</identification>
+		<component-class-name>srikanth-java.mavenproject1</component-class-name>
+		<component-class-path>
+		</component-class-path>
+		<bootstrap-class-name>srikanth-java.mavenproject1</bootstrap-class-name>
+		<bootstrap-class-path>
+		</bootstrap-class-path>
+	</component>
+</jbi>
