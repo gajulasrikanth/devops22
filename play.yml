@@ -1,6 +1,0 @@
----
-- hosts: all
-  become: yes
-  tasks:
-  - name: Installing git package
-    yum: name=git state=latest
